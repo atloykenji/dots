@@ -1,0 +1,8 @@
+[window]
+opacity = 0.8
+blur = true
+[window.padding]
+x=5
+y=5
+[cursor.style]
+blinking = "On" 
