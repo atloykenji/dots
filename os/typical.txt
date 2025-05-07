@@ -1,0 +1,39 @@
+[[cs]]
+Enable non free repos +install Nvidea drivers  
+Update mirrors/ (post installation fedora github)  
+  
+Curl  
+Git  
+vlc  
+brave  
+htop  
+alacritty  
+fastfetch  
+Localsend  
+Qbittorrent  
+Vscode  
+Neovim  
+Cowsay  
+flatpak  
+syncthing  
+steam  
+Obsidian  
+Xampp  
+telegram  
+discord  
+audacity  
+zoom  
+obs  
+gimp
+btrfs-assistant
+
+  
+Change sinhala fonts  
+
+Papirus icons  
+Jetbrains mono  
+
+install zsh and use ohmyzsh powerlevel10k theme
+  
+if kde - customize panel  
+fix workspaces +add cube  
