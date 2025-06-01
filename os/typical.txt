@@ -1,10 +1,12 @@
 [[cs]]
 Enable non free repos +install Nvidea drivers  
-Update mirrors/ (post installation fedora github)  
+Update mirrors , Configure max parallel downloads
+/ (post installation fedora github)  
   
 Curl  
 Git  
-vlc  
+vlc 
+mpv
 brave  
 htop  
 alacritty  
@@ -14,6 +16,7 @@ Qbittorrent
 Vscode  
 Neovim  
 Cowsay  
+Cmatrix  
 flatpak  
 syncthing  
 steam  
@@ -25,15 +28,29 @@ audacity
 zoom  
 obs  
 gimp
-btrfs-assistant
+btrfs-assistant or timeshift(if ext4)
+handbrake
+virt manager
+Lutris
+bottles
+bleachbit
+easyeffects
+losslesscut
+Mission Center
+Gapless
 
-  
-Change sinhala fonts  
+install zsh and use ohmyzsh powerlevel10k theme
+
+Change sinhala fonts (my github)
 
 Papirus icons  
 Jetbrains mono  
-
-install zsh and use ohmyzsh powerlevel10k theme
   
 if kde - customize panel  
-fix workspaces +add cube  
+fix workspaces
+enable KDE Connect
+  
+if gnome -
+install gnome tweaks
+install extensions; blur my shell ,clipboard indicator,vitals
+install foliate
