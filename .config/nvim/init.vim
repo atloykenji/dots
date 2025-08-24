@@ -20,6 +20,11 @@ mkdir -p ~/.config/nvim/pack/themes/start
 Clone Rose Pine into it:
 git clone https://github.com/rose-pine/neovim ~/.config/nvim/pack/themes/start/rose-pine
 
+or 
+
+git clone https://github.com/morhetz/gruvbox.git ~/.config/nvim/pack/themes/start/gruvbox
+
+
 Edit your init.vim config: 
 nvim  ~/.config/nvim/init.vim
 
