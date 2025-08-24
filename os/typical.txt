@@ -39,7 +39,7 @@ losslesscut
 Mission Center
 Gapless
 
-install zsh and use ohmyzsh powerlevel10k theme
+install zsh and use ohmyzsh (I like default look and its faster than using plugins like powerlevel10k theme)
 
 Change sinhala fonts (my github)
 
@@ -48,9 +48,7 @@ Jetbrains mono
   
 if kde - customize panel  
 fix workspaces
-enable KDE Connect
   
 if gnome -
 install gnome tweaks
-install extensions; blur my shell ,clipboard indicator,vitals
-install foliate
+install extensions; blur my shell ,clipboard indicator
