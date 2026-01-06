@@ -9,6 +9,7 @@ zsh
 build-essential
 g++
 gcc
+python3
 htop
 vlc 
 mpv
@@ -26,10 +27,14 @@ Obsidian
 discord  
 audacity  
 zoom  
-obs  
+obs-studio  
 gimp
 btrfs-assistant or timeshift(if ext4)
 handbrake
+Clion
+spotify
+notepadQQ
+openvpn
 virt manager
 Lutris
 bottles
