@@ -1,28 +1,28 @@
 [[cs]]
-Enable non free repos +install Nvidea drivers  
+if fedora Enable non free repos,flatpak  
 Update mirrors , Configure max parallel downloads
 / (post installation fedora github)  
   
 Curl  
-Git  
+Git
+zsh
+build-essential
+g++
+gcc
+htop
 vlc 
 mpv
-brave  
-htop  
 alacritty  
 fastfetch  
 Localsend  
 Qbittorrent  
 Vscode  
-Neovim  
+vim  
 Cowsay  
 Cmatrix  
-flatpak  
 syncthing  
 steam  
-Obsidian  
-Xampp  
-telegram  
+Obsidian    
 discord  
 audacity  
 zoom  
@@ -36,14 +36,12 @@ bottles
 bleachbit
 easyeffects
 losslesscut
-Mission Center
 Gapless
 
 install zsh and use ohmyzsh (I like default look and its faster than using plugins like powerlevel10k theme)
 
 Change sinhala fonts (my github)
 
-Papirus icons  
 Jetbrains mono  
   
 if kde - customize panel  
