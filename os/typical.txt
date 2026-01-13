@@ -6,52 +6,52 @@ Update mirrors , Configure max parallel downloads
 Curl  
 Git
 zsh
-build-essential
-g++
+vim or nvim 
 gcc
+g++ or gcc-c++
 python3
 htop
+btop
+fzf
+rsync
+ffmpeg
+alacritty  
+fastfetch
 vlc 
 mpv
-alacritty  
-fastfetch  
 Localsend  
 Qbittorrent  
 Vscode  
-vim  
 Cowsay  
 Cmatrix  
-syncthing  
+syncthing
+google-chrome-stable or brave or something else
 steam  
 Obsidian    
-discord  
+discord
+telegram-desktop
 audacity  
 zoom  
 obs-studio  
 gimp
+blender
+KiCad
+arduino
 btrfs-assistant or timeshift(if ext4)
 handbrake
 Clion
 spotify
 notepadQQ
 openvpn
-virt manager
+virt-manager
+gnome-boxes
+mangohud
 Lutris
-bottles
 bleachbit
 easyeffects
 losslesscut
 Gapless
 
-install zsh and use ohmyzsh (I like default look and its faster than using plugins like powerlevel10k theme)
+use ohmyzsh (I like default look and its faster than using plugins like powerlevel10k theme)
 
-Change sinhala fonts (my github)
-
-Jetbrains mono  
-  
-if kde - customize panel  
-fix workspaces
-  
-if gnome -
-install gnome tweaks
-install extensions; blur my shell ,clipboard indicator
+Jetbrains mono
